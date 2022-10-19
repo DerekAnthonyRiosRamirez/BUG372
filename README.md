@@ -14,7 +14,7 @@
 
 ### Instrucciones:
 
-- [ ] Clonar repositorio de la siguiente url: [Base Repository](https://github.com/cheemsdoggie/bug372.git)
+- [ ] Clonar/Descargar repositorio de la siguiente url: [Base Repository](https://github.com/cheemsdoggie/bug372.git)
 - [ ] Renombrar la rama master ó main a `blacklivesmatter`.
 - [ ] Cambiar el archivo `README.md`, poner su *nombre* y *apodo* y guardarlo en un commit con el mensaje:
   - `COMMIT2: Updated General Info`
@@ -35,4 +35,4 @@
 ---
 ### Representación gráfica de exámen:
 
-![Flowchart](https://i.postimg.cc/mr4HcXdc/flowchart.jpg)
+![Flowchart](https://i.postimg.cc/FsJp36xG/flowchart.jpg)
