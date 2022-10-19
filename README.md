@@ -4,7 +4,6 @@
 >
 > __Apodo:__ 👉 *(Dexter)*
 >
->
 ---
 ### Contenido `COMMIT1: Initial Commit`:
 
@@ -30,7 +29,8 @@
   - `COMMIT5: This is the way`
 - [ ] `Subir a sus cuentas de GITHUB` el repositorio del código y colocar el `link` en la pregunta/inciso `6` del exámen de blackboard.
 ---
-### Meme:
+### Meme: ![cheemsreprobacion](./cheemsreprobacion.jpg)
+
 
 ---
 ### Representación gráfica de exámen:
